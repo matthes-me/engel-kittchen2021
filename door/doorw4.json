@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/kunstinsel.json#start_angelkitchen"
+                 "value":"..\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -143,7 +143,7 @@
         {
          "draworder":"topdown",
          "id":8,
-         "name":"floorlayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",

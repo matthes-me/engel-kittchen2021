@@ -100,6 +100,12 @@
          "imagewidth":1600,
          "margin":0,
          "name":"allcooksarebeautiful1600",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc BY-NC-SA  crated by meckis"
+                }],
          "spacing":0,
          "tilecount":1650,
          "tileheight":32,

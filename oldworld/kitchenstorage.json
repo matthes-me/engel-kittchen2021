@@ -160,6 +160,12 @@
          "imagewidth":2048,
          "margin":0,
          "name":"kitchenstorage",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,

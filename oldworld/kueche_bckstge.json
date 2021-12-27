@@ -31,6 +31,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/rc3.161hz.de\/terminal\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -49,6 +54,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/rc3.161hz.de\/liveprint\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,6 +95,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared kitchenparty"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,6 +118,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared kitchenparty"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -232,6 +252,12 @@
          "imagewidth":2048,
          "margin":0,
          "name":"bckstgeset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -295,6 +321,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"boergerwehr2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":15,
          "tileheight":32,
@@ -308,6 +340,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"blinkblau",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -342,6 +380,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"boergeranim_back",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -376,6 +420,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"feueranim",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -582,6 +632,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"printer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -636,6 +692,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":2394,
          "tileheight":32,
