@@ -56,6 +56,12 @@
          "id":68,
          "name":"su5",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":41,
@@ -131,6 +137,34 @@
          "type":"tilelayer",
          "visible":true,
          "width":41,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":74,
+         "name":"falling",
+         "objects":[
+                {
+                 "height":46,
+                 "id":1,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"m3i151Tz0rVEfCvrCRdlSI499CoTbWajVWzAkq4dV6q1eQHAhf "
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":791,
+                 "y":587
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -247,8 +281,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":74,
- "nextobjectid":1,
+ "nextlayerid":75,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -268,6 +302,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilestCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":2394,
          "tileheight":32,

@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"doorw1.json"
+                 "value":"doorw2.json"
                 }],
          "type":"tilelayer",
          "visible":true,

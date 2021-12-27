@@ -86,12 +86,6 @@
          "id":14,
          "name":"carpet",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"cc"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":13,
