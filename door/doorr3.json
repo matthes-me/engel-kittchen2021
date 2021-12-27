@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"path\/pathway.json"
+                 "value":"..\/path\/pathway.json"
                 }],
          "type":"tilelayer",
          "visible":true,

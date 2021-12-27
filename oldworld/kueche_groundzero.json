@@ -127,6 +127,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"..\/audio\/McCrewRules-3.mp3"
                 }],
@@ -145,6 +150,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"..\/audio\/spuelstrasse.mp3"
                 }],
@@ -163,6 +173,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"..\/audio\/fridge.mp3"
                 }],
@@ -224,6 +239,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared kitchenparty"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
