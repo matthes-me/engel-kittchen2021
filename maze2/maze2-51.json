@@ -114,7 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"maze2-11.json#sd8"
+                 "value":"maze2-11.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -638,12 +638,6 @@
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"objectgroup",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
